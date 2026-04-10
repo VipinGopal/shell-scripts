@@ -6,7 +6,4 @@ sh thread-analyze.sh 1234 4 1m
 
 Available time units
 
-s for seconds (the default)
-m for minutes.
-h for hours.
-d for days.
+s for seconds (the default), m for minutes,h for hours, d for days
